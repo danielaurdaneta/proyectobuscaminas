@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "d",
+        "last_name": "u",
+        "time": 34,
+        "config": {
+            "filas": 8,
+            "columnas": 8,
+            "minas": 6
+        }
+    },
+    {
+        "first_name": "Oscar",
+        "last_name": "Piastri",
+        "time": 55,
+        "config": {
+            "filas": 8,
+            "columnas": 8,
+            "minas": 6
+        }
+    },
+    {
+        "first_name": "Felix",
+        "last_name": "Otamendi",
+        "time": 60,
+        "config": {
+            "filas": 8,
+            "columnas": 8,
+            "minas": 6
+        }
+    }
+]
